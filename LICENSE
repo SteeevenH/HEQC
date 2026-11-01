@@ -1,0 +1,54 @@
+HEQC Non-Commercial Research License
+Version 1.0
+
+1. Scope
+
+This license applies to the HEQC source code, trained model weights, and
+threshold files distributed under these terms (the "Materials"). Third-party
+software and other materials with separate notices remain subject to their
+own licenses.
+
+2. Non-commercial research
+
+The copyright holders grant permission, without a license fee, to download,
+copy, use, and modify the Materials solely for non-commercial research.
+Existing copyright notices and this license must be retained in copies and
+modifications of the Materials. Modifying the Materials does not remove the
+commercial-use restriction.
+
+Non-commercial research means research whose use of the Materials is not
+intended to generate commercial advantage or revenue. The status of the user
+as a university, nonprofit, company, or individual does not by itself decide
+whether a particular use is non-commercial.
+
+This license permits publication of research findings obtained through the
+permitted use of the Materials. It does not grant rights to third-party data
+used with the Materials.
+
+3. Commercial use
+
+Commercial use of the Materials or modifications requires prior written
+permission from the relevant copyright holders. This includes use in a
+commercial product or service, paid analysis or consulting, internal business
+operations, or research directed toward developing a commercial product or
+service. Providing access without a charge does not by itself make a use
+non-commercial.
+
+For commercial licensing inquiries, contact the project author through the
+original HEQC repository's issue tracker. An inquiry alone does not grant
+permission. Any approved commercial use is governed by the written terms
+provided by the relevant copyright holders.
+
+4. Other rights
+
+Rights not expressly granted by this license are reserved. These terms do not
+limit rights independently available under applicable law or the hosting
+platform's terms of service. No right to use the copyright holders' names or
+trademarks to imply endorsement is granted.
+
+5. No warranty
+
+The Materials are provided as is, without warranties, including warranties of
+accuracy, fitness for a particular purpose, or suitability for clinical use.
+To the extent permitted by applicable law, the copyright holders are not
+liable for loss or damage arising from the use of the Materials.

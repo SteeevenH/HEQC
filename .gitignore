@@ -1,0 +1,98 @@
+# Python environments and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local input slides, predictions and private research data
+wsi/
+outputs/
+data/
+datasets/
+raw_patches/
+patches/
+annotations/
+checkpoints/
+runs/
+logs/
+wandb/
+mlruns/
+
+# Slide files and other data exports, wherever they are located
+*.[sS][vV][sS]
+*.[nN][dD][pP][iI]
+*.[mM][rR][xX][sS]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+*.[dD][cC][mM]
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.parquet
+*.csv
+*.tsv
+*.pkl
+*.pickle
+*.log
+*.tmp
+*.tmp.*
+
+# Weights are distributed separately after an explicit release review.
+*.[pP][tT]
+*.[pP][tT][hH]
+*.ckpt
+*.safetensors
+*.onnx
+
+# Only reviewed model documentation and the three canonical threshold files
+# may enter the repository. Do NOT use a global *.json ignore rule.
+/model/*
+!/model/README.md
+!/model/threshold_efficientnet_b0.json
+!/model/threshold_resnet18.json
+!/model/threshold_mobilenet_v3_large.json
+
+# Outputs copied outside outputs/ still should not enter source control.
+statistics.json
+run_config.json
+*.[pP][nN][gG]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+# Explicit opt-in location for reviewed public example images.
+!/docs/images/*.png
+!/docs/images/*.jpg
+!/docs/images/*.jpeg
+
+# Local credentials and editor / operating-system metadata
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.netrc
+.pypirc
+.vscode/
+.idea/
+.history/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archives may silently bundle private input or output data.
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
