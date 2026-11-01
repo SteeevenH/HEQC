@@ -16,7 +16,7 @@ For NVIDIA GPU inference, first install a compatible CUDA-enabled PyTorch and to
 
 ## Models
 
-Place the supplied model files and their corresponding threshold files in `model/`:
+Download the model weights and their matching threshold files from the [v1.0.0 release](https://github.com/SteeevenH/HEQC/releases/tag/v1.0.0). Place the downloaded files in `model/`:
 
 | Model | Weights | Thresholds |
 | --- | --- | --- |
